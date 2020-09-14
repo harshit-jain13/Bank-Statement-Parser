@@ -1,4 +1,4 @@
-# Onebanc
+# Bank Statement Parser
 Greetings,
 	There were some minor data cleaning that i did before processing the csv files provided.
 	
